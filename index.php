@@ -67,7 +67,7 @@
         </div>
 
         <div id="rodape" class="legenda">
-            <p align="center">&copy; <a href="mailto:criscmaia@gmail.com?Subject=Fam&#237;lia Grizzo%20.%20Grice%20.%20Gris%20.%20Grissi">Cristiano Maia</a> - 2012</p>
+            <p align="center">&copy; <a href="mailto:criscmaia@gmail.com?Subject=Fam&#237;lia Grizzo%20.%20Grice%20.%20Gris%20.%20Grissi">Cristiano Maia</a> - 2015</p>
         </div>
         
         <div id="esquinaleft"></div>
