@@ -93,6 +93,7 @@
                 </ul>
             </div>
         </div>
-        <h1><?= htmlspecialchars($title) ?></h1>
         <div id="intro">
             <div class="fb-like" data-href="http://familiagrissi.com.br/" data-send="true" data-width="450" data-show-faces="true" data-font="verdana" data-action="recommend"></div>
+
+            <h1><?= htmlspecialchars($title) ?></h1>

@@ -4,14 +4,20 @@
 
 <div class="box">
     <div id="email_esquerda">
-        <?php
-            echo "<form method='post' action='http://familiagrissi.com.br/index.php?link=contato'>
-                      Nome: <br /> <input type='text' name='nome' size='35' /><br />
-                      Email:<br /> <input type='text' name='email' size='35' /><br />
-                      Mensagem:<br /> <textarea name='mensagem' rows='4' cols='40'></textarea><br />
-                      <input type='submit' value='Enviar' />
-                  </form>";
+        <form method="post">
+            <label for="nome">Nome: </label><br>
+            <input type="text" name="nome" placeholder="Nome" id="nome-form" required autocomplete="name">
+            <br><br>
+            <label for="email">Email: </label><br />
+            <input type="email" name="email" placeholder="Email" id="email-form" required autocomplete="email">
+            <br><br>
+            <label for="mensagem">Mensagem: </label><br>
+            <textarea name="mensagem" rows="5" cols="40" placeholder="Deixe aqui sua mensagem =)" id="mensagem-form" required></textarea>
+            <br><br>
+            <input type="submit" name="submit" value="Enviar">
+        </form>
 
+        <?php
         $nome = $_POST['nome'];
         $email = $_POST['email'];
         $mensagem = $_POST['mensagem'];
@@ -57,7 +63,7 @@
 
                                 $from = "De: $nome ($email)";
 
-                                mail("cc1177@live.mdx.ac.uk, criscmaia@gmail.com			", "Site Grissi", $email_completo, $from);
+                                mail("criscmaia@gmail.com", "Site Grissi", $email_completo, $from);
 
                                 echo "Mensagem enviada! \n";
                                 echo "Obrigado pela participa&ccedil&atilde;o.";
