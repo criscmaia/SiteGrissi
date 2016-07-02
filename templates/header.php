@@ -12,6 +12,21 @@
     </title>
 
     <link rel="stylesheet" type="text/css" href="index.css" />
+
+    <link rel="alternate" href="http://www.familiagrissi.com.br/" hreflang="pt" />
+    <!-- Google Analytics -->
+    <script>
+        window.ga = window.ga || function() {
+            (ga.q = ga.q || []).push(arguments)
+        };
+        ga.l = +new Date;
+        ga('create', 'UA-80216670-1', 'auto');
+        ga('require', 'linkid');
+        ga('send', 'pageview');
+
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    <!-- End Google Analytics -->
 </head>
 
 <body>
@@ -62,4 +77,14 @@
                 </div>
         </div>
         <div id="intro">
+            <!-- Google Ad -->
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Site Grissi -->
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7255428607101928" data-ad-slot="8531444426" data-ad-format="auto"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+
+            </script>
+            <!-- Google Ad Finish -->
+
             <h1><?= htmlspecialchars($title) ?></h1>
