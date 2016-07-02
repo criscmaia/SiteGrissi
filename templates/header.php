@@ -44,8 +44,6 @@
                         <li><a href="/arvore-genealogica.php" <?php if ($paginaaberta=='/arvore-genealogica.php' ) echo 'id="current"'; ?>> Árvore Geneal&oacute;gica</a> |</li>
                         <li><a href="/historia.php" <?php if ($paginaaberta=='/historia.php' ) echo 'id="current"'; ?>> Hist&oacute;ria</a> |</li>
                         <li><a href="/lembrancas.php" <?php if ($paginaaberta=='/lembrancas.php' ) echo 'id="current"'; ?>> Lembran&ccedil;as</a> |</li>
-                        <li><a href="/negocios.php" <?php if ($paginaaberta=='/negocios.php' ) echo 'id="current"'; ?>> Neg&oacute;cios</a> |</li>
-                        <li><a href="/noticias.php" <?php if ($paginaaberta=='/noticias.php' ) echo 'id="current"'; ?>> Noticias</a> |</li>
                         <li><a href="/fotos.php" <?php if ($paginaaberta=='/fotos.php' ) echo 'id="current"'; ?>> Fotos</a> |</li>
                         <li><a href="/contato.php" <?php if ($paginaaberta=='/contato.php' ) echo 'id="current"'; ?>> Contato</a> |</li>
                     </ul>
