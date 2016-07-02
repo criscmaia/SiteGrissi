@@ -160,7 +160,7 @@ select {
 body {
     background-color: #E6E6E6;
     font-family: verdana, Helvetica, sans-serif;
-    font-size: 0.9em;
+    font-size: 1em;
     height: 100%;
     margin: 0px;
     padding: 0px;
@@ -184,149 +184,45 @@ h1 {
     text-align: left;
 }
 
-.bordaesquerda {
-    background-image: url(/images/layout/top-left.jpg);
-    height: 77px;
-    width: 196px;
-    float: left;
-    position: relative;
-    margin-top: 0px;
-    z-index: 0;
-}
-
-.bordacentro {
-    width: 100%;
-    height: 77px;
-    position: absolute;
-    background-image: url(/images/layout/middle.jpg);
-    background-position: 100% 0%;
-    background-repeat: repeat-x;
-    z-index: -1;
-}
-
-.bordadireita {
-    background-image: url(/images/layout/top-right.jpg);
-    height: 77px;
-    width: 196px;
-    float: right;
-    position: relative;
-    margin-top: 0px;
-    z-index: 0;
-}
-
-#left {
-    height: 100%;
-    width: 111px;
-    position: absolute;
-    background-image: url(/images/layout/left.jpg);
-    background-repeat: repeat-y;
-    z-index: -1;
-}
-
-#right {
-    right: 0px;
-    top: 0;
-    height: 100%;
-    width: 111px;
-    position: absolute;
-    background-image: url(/images/layout/right.jpg);
-    background-repeat: repeat-y;
-    z-index: -1;
-}
-
-#esquinaleft {
-    height: 39px;
-    width: 109px;
-    left: 111px;
-    bottom: 0px;
-    position: absolute;
-    background-image: url(/images/layout/bottom-left-bg.gif);
-    background-repeat: no-repeat;
-    z-index: -1;
-}
-
-#esquinaright {
-    height: 39px;
-    width: 109px;
-    right: 91px;
-    bottom: 0px;
-    position: absolute;
-    background-image: url(/images/layout/bottom-right-bg.gif);
-    background-repeat: no-repeat;
-    z-index: -1;
-}
-
-#pageheader {
-    padding-left: 111px;
-    padding-right: 111px;
-    padding-top: 77px;
-    position: relative;
-}
-
-#tituloleft {
-    background-image: url(/images/layout/title-left.JPG);
-    height: 173px;
-    width: 38px;
-    float: left;
-    position: relative;
-    z-index: -1;
-}
-
-#titulocenter {
-    background-image: url(/images/layout/title-center.jpg);
-    height: 173px;
-    width: 90%;
-    position: absolute;
-    background-position: 80%;
-    background-repeat: repeat-x;
-    z-index: -2;
-}
-
-#tituloright {
-    background-image: url(/images/layout/title-right.JPG);
-    height: 173px;
-    width: 38px;
-    float: right;
-    position: relative;
-    z-index: -1;
-}
-
-#titulo {
+#mobile-titulo {
     font-family: Tallys, Georgia, serif;
     font-size: 2.3em;
+    margin: 15px 0;
+    line-height: 1.4em;
     color: #DD0000;
     letter-spacing: 4px;
-    margin-top: 1.5em;
-    margin-right: 111px;
     text-align: center;
-    z-index: 0;
     text-shadow: 0 0 3.1em #e00, 0 0 0.8em #e00;
 }
 
-#subtitulo {
+#mobile-subtitulo {
     font-family: Tallys, Georgia, serif;
     font-size: 1.4em;
     letter-spacing: 4px;
     color: #008000;
-    margin-top: 0.6em;
-    margin-right: 111px;
     text-align: center;
-    z-index: 0;
 }
 
-#centralizarmenu {
-    margin-left: 111px;
-    margin-right: 111px;
-    margin-top: 190px;
-    margin-bottom: 30px;
+#mobile-centralizarmenu {
+    text-align: center;
+    padding: 30px 0 40px 0
+}
+
+#mobile-navcontainer {
+    font-family: verdana, Helvetica, sans-serif;
+    margin: 0 auto;
+    width: 100%;
+    border-bottom-width: 3px;
+    border-bottom-color: #008000;
+    border-bottom-style: groove;
 }
 
 #intro {
+    padding: 0 !important;
+    width: 97%;
     text-align: center;
     margin-top: 5px;
-    padding-left: 130px;
-    padding-right: 130px;
-    padding-bottom: 30px;
+    padding: 0;
     text-align: justify;
 }
 
@@ -356,10 +252,11 @@ h1 {
 }
 
 #navlist li a {
-    letter-spacing: -1px;
+    line-height: 1.6em;
+    /*    letter-spacing: -1px;*/
     text-decoration: none;
     color: black;
-    font-size: 0.9em;
+    /*    font-size: 0.9em;*/
     padding: 0 2px;
     border-top: .5em solid #E6E6E6;
 }
@@ -368,7 +265,7 @@ h1 {
 #navlist a#current {
     color: #DD0000;
     border-top: none;
-    font-size: 1.1em;
+    font-size: 1.2em;
 }
 
 #navlist a#current {
@@ -378,11 +275,12 @@ h1 {
 .home {
     margin-left: auto;
     margin-right: auto;
-    width: 680px;
+    max-width: 680px;
 }
 
 .home img {
     width: 100%;
+    height: auto;
 }
 
 .homeaudio {
@@ -523,12 +421,15 @@ h1 {
 }
 
 .box {
+    width: 97% !important;
+    margin: auto 0 !important;
+
     background: #eee;
     margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
     min-height: 250px;
-    width: 680px;
+/*    width: 680px;*/
     padding: 20px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
