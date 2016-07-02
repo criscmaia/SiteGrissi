@@ -3,7 +3,7 @@
 <?php render("header", ["title" => "Noticias"]); ?>
 
 <div class="box texto">
-    <h1>Belo Horizonte, 01 de Julho de 2010</h1>
+    <h2>Belo Horizonte, 01 de Julho de 2010</h2>
     <br>
     <p><img src="images/noticias/aspasabre.gif" alt="Abre aspas" /> Oi turma,</p>
     <br>

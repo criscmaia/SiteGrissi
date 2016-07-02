@@ -3,7 +3,7 @@
 <?php render("header", ["title" => "História"]); ?>
 
 <div class="box">
-    <h1>14 de janeiro de 1889</h1><br>
+    <h2>14 de janeiro de 1889</h2><br>
     <p>Com muito orgulho e carinho, apresentamos a história da NOSSA FAMÍLIA:</p><br>
     <div class="esquerda">
         <a href="images/historia/documento1.jpg" TARGET="_blank">
@@ -27,7 +27,7 @@
 </div>
 
 <div class="box">
-    <h1>21 de janeiro de 1889</h1><br>
+    <h2>21 de janeiro de 1889</h2><br>
     <div class="esquerda">
         <a href="images/historia/documento3.jpg" TARGET="_blank">
             <img src="images/historia/documento3.jpg" alt="Documento 3" />
@@ -40,7 +40,7 @@
 </div>
 
 <div class="box">
-    <h1>21 de janeiro de 1889</h1><br>
+    <h2>21 de janeiro de 1889</h2><br>
     <div class="esquerda">
         <a href="images/historia/documento4.jpg" TARGET="_blank">
             <img src="images/historia/documento4.jpg" alt="Documento 4" />
@@ -62,7 +62,7 @@
 </div>
 
 <div class="box">
-    <h1>22 de agosto 1868</h1><br>
+    <h2>22 de agosto 1868</h2><br>
     <div class="esquerda">
         <a href="images/historia/documento6.jpg" TARGET="_blank">
             <img src="images/historia/documento6.jpg" alt="Documento 6" />
@@ -75,7 +75,7 @@
 </div>
 
 <div class="box">
-    <h1>15 de setembro 1878</h1><br>
+    <h2>15 de setembro 1878</h2><br>
     <div class="esquerda">
         <a href="images/historia/documento7.jpg" TARGET="_blank">
             <img src="images/historia/documento7.jpg" alt="Documento 7" />
