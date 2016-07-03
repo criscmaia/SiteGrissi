@@ -15,7 +15,7 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Laurita Grissi Bertolin</p><br>
+                <p>Laurita Grissi Bertolin</p><br>
         </div>
     </div>
     <blockquote class="direita">
@@ -28,6 +28,7 @@
         <p>O Rodolfo foi morar com os Toffolo em Ouro Preto. Meu irm&atilde;o Olivo faleceu v&iacute;tima de um desastre,estava noivo e faltavam tr&ecirc;s meses para casar. Minha tia Maria casou-se com um vi&uacute;vo, Antonio Miguel, e teve tr&ecirc;s filhos: Antonio, Carlinhos e Luiza, que foram para Lorena, S&atilde;o Paulo, depois que os pais morreram.</p><br>
         <p>Moramos perto da Vargem Grande, depois fomos para S&aacute; Fortes, onde ficamos 43 anos. Meu pai gostava muito de l&aacute;, onde tinha planta&ccedil;&atilde;o de arroz, milho e uvas pretas em muita quantidade. As uvas eram colhidas e colocadas nos estaleiros de t&aacute;buas que eram forrados com sacos brancos. Tudo era muito asseado. Colocavam-se as uvas para descansar uns dias e selecionava as melhores para se obter um bom vinho. O restante desta uva verde se fazia um outro vinho mais claro, fervia e colocava a&ccedil;ucar. N&atilde;o colocava para ferventar. As uvas selecionadas eram colocadas em tachos e amassavam s&oacute; com as m&atilde;os. Ferventavam um pouco e depois colocavam nos quintos de madeira onde ficavam durante uns 20 dias. Depois, tirava-se o vinho colocando nos garraf&otilde;es coando, e ai deixavam tr&ecirc;s meses. O gosto era perfeito, saia do quinto docinho. Arrolhava e colocava o lacre. Arrumavam muito bem e meu pai era muito caprichoso. Tinham uns dez quintos que ficavam em cima de t&aacute;buas. &Agrave;s vezes endiam, mas tamb&eacute;m distribu&iacute;am vinho entre amigos e fam&iacute;lia. Todos estudaram na Escola Doralice Savassi.</p><br>
     </blockquote>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -43,7 +44,7 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Andr&eacute;a Bergamini Reis</p><br>
+                <p>Andr&eacute;a Bergamini Reis</p><br>
         </div>
     </div>
     <div class="direita">
@@ -51,6 +52,7 @@
         <p>Infelizmente hoje, a mem&oacute;ria da fam&iacute;lia Grissi est&aacute; se apagando, tanto que os componentes mais novos desconhecem a origem de muitos parentes que formam a fam&iacute;lia.</p><br>
         <p>&Eacute; uma bela atitude que voc&ecirc; tente resgat&aacute;-la, al&eacute;m de contribuir para o retorno daqueles bons tempos, como citou a minha m&atilde;e. Gra&ccedil;as a voc&ecirc; e a contribui&ccedil;&atilde;o de todos.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -66,12 +68,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Jos&eacute; Fernandes Grissi</p><br>
+                <p>Jos&eacute; Fernandes Grissi</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Adorei participar dessa &aacute;rvore geneal&oacute;gica e assim sei que voc&ecirc;s t&ecirc;m considera&ccedil;&atilde;o com minha fam&iacute;lia. Fui ao cart&oacute;rio saber informa&ccedil;&otilde;es, mas eles me disseram que s&oacute; vou conseguir estes dados se levar pelo menos o ano de casamento deles, pois s&atilde;o muitos livros. Ou ent&atilde;o no Rio de Janeiro onde desembarcaram.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -87,7 +90,7 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Daura Grissi Candian Apelido: Cabrita</p><br>
+                <p>Daura Grissi Candian Apelido: Cabrita</p><br>
         </div>
     </div>
     <div class="direita">
@@ -95,6 +98,7 @@
         <p>M&uacute;sica preferida: Cerejeira Rosa de Carlos Gardel</p><br>
         <p>Comida: Broa de Fub&aacute;, Galinha Recheada, Doce de Leite com Chocolate.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -110,7 +114,7 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Maria Luiza Grissi Bergamini</p><br>
+                <p>Maria Luiza Grissi Bergamini</p><br>
         </div>
     </div>
     <div class="direita">
@@ -129,6 +133,7 @@
         </p>
         <p>Aos domingos, ao voltar da missa realizada a alguns km. de S&iacute;tio, na pr&oacute;pria S&aacute; Fortes, ou na Borda, todos iam nadar no lago. Por vezes aguard&aacute;vamos os parentes de Belo Horizonte e, embora com muita vergonha, adoravam preparar uma comida gostosa pra parentada toda. S&iacute;tio Bela Vista, eu tenho muita saudade daquele tempo que n&atilde;o volta mais.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -144,7 +149,7 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Madalena Grissi</p><br>
+                <p>Madalena Grissi</p><br>
         </div>
     </div>
     <div class="direita">
@@ -152,6 +157,7 @@
         <p>Meu pai tinha o apelido de Bepe. Gostava de tomar uma birinaite (cacha&ccedil;a). Suas ora&ccedil;&otilde;es eram feitas em italiano e gostava tamb&eacute;m de trabalhos manuais, como enfeites de tronco e ra&iacute;zes de &aacute;rvores. Tinha talento para culin&aacute;ria e fazia sempre a salada de radichi (almeir&atilde;o com cebolas, alho, vinagre e sal).</p><br>
         <p>Ele viveu 73 anos. Infelizmente n&atilde;o tenho muitas lembran&ccedil;as quanto a algum fato mais importante que possa ajudar nesta investiga&ccedil;&atilde;o, mas sugiro entrar em contato com minhas tias Laurita ou Vitalina.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -167,7 +173,7 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Dulce Grissi Zonzin</p><br>
+                <p>Dulce Grissi Zonzin</p><br>
         </div>
     </div>
     <div class="direita">
@@ -184,6 +190,7 @@
         <br><br>
         <p>Colocar todos os ingredientes no fogo. Juntar outra x&iacute;cara de a&ccedil;&uacute;car, deixar queimar, ponto de calda de bala. Colocar um litro de &aacute;gua e deixar ferver. Misture outra x&iacute;cara de mel e 6 gotas de iodo. Filtrar e colocar na geladeira. Tomar um c&aacute;lice tr&ecirc;s vezes ao dia.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -199,12 +206,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Maria de F&aacute;tima Grissi Pimenta</p><br>
+                <p>Maria de F&aacute;tima Grissi Pimenta</p><br>
         </div>
     </div>
     <div class="direita">
         <p>"Me lembro do leite com sal que era servido em S&aacute; Fortes, na Fazenda do tio Jos&eacute; e tia Emilia,provocando meu pedido para tomar leite de leiteiro, meu preferido. Eu adorava as refei&ccedil;&otilde;es com polenta frita, sopa de capelete. Eram divertidas nossas caminhadas ao luar, nossas idas ao Jubileu de S&aacute; Fortes, com festas na Igrejinha, leil&otilde;es e bailes em Ant&ocirc;nio Carlos. N&atilde;o podemos esquecer dos vinhos e cacha&ccedil;as fabricados por meu pai, das carnes cozidas que t&atilde;o carinhosamente ele fazia aos domingos. Dos caldos tomados com torradas e das canjas de galinha com o requinte de reg&aacute;-la com vinho tinto".</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -220,12 +228,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Mauro Gris</p><br>
+                <p>Mauro Gris</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Parab&eacute;ns pela iniciativa e desculpas pela demora da resposta. A minha pouca colabora&ccedil;&atilde;o se resume em casos ouvidos nas minhas f&eacute;rias na fazenda do tio Jos&eacute;, quando era crian&ccedil;a, como por exemplo: <i>"Mula sem cabe&ccedil;a"</i> -hist&oacute;ria de um cavalo que n&atilde;o tinha cabe&ccedil;a e andava pelos matos assustando o povo. <i>"Bola de Fogo"</i>- era uma claridade muito forte em forma de bola e corria pelos morros deixando um rastro. Ainda, muita m&uacute;sica tocada no acordeon, t&iacute;pica do interior, tocada se n&atilde;o me engano pela Dalva. As hist&oacute;rias eram um meio de manter as crian&ccedil;as dentro de casa &agrave; noite, para que os mais velhos pudessem dormir cedo.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -241,12 +250,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Maria das Gra&ccedil;as Gris Drumond</p><br>
+                <p>Maria das Gra&ccedil;as Gris Drumond</p><br>
         </div>
     </div>
     <div class="direita">
-        </p>Lembro-me das minhas f&eacute;rias passadas em S&aacute; Fortes com tia Emilia, tio Jos&eacute; e primos. Sonhava quando isto acontecia. Adorava estas f&eacute;rias. Do angu feito pela tia Emilia, colocado na t&aacute;bua e cortado em linha. Lembro-me do papai falando com orgulho de sua terra. Papai sentado em nossa casa, do alpendre com samambaias penduradas, ao cair da tarde. Das nossas festas de Natal com a mesa da f&aacute;brica de balas embaixo da parreira de uvas, com toda fam&iacute;lia reunida...</p><br>
+        <p>Lembro-me das minhas f&eacute;rias passadas em S&aacute; Fortes com tia Emilia, tio Jos&eacute; e primos. Sonhava quando isto acontecia. Adorava estas f&eacute;rias. Do angu feito pela tia Emilia, colocado na t&aacute;bua e cortado em linha. Lembro-me do papai falando com orgulho de sua terra. Papai sentado em nossa casa, do alpendre com samambaias penduradas, ao cair da tarde. Das nossas festas de Natal com a mesa da f&aacute;brica de balas embaixo da parreira de uvas, com toda fam&iacute;lia reunida...</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -262,13 +272,14 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Mara Gris Petinelli</p><br>
+                <p>Mara Gris Petinelli</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Lembro-me com carinho e saudades da minha Vov&oacute; Pina, como todos a chamavam e das viagens na Maria Fuma&ccedil;a at&eacute; Dr. S&aacute; Fortes para visit&aacute;-la. Como &eacute;ramos bem recebidos por ela e pelos tios e primos naquela fazendinha gostosa e aconchegante do tio Jos&eacute; e tia Emilia. Lembro-me com carinho de ver a Nona no fog&atilde;o &agrave; lenha, mexendo com um pau de metro, a polenta durante boa parte da manh&atilde; e das galinhas gordas e suculentas que a bondosa tia Emilia colocava &agrave; mesa na hora do almo&ccedil;o. Todos da fam&iacute;lia Grissi residentes em Barbacena e imedia&ccedil;&otilde;es me s&atilde;o muito caros e lembrados frequentemente. Em Belo Horizonte n&atilde;o esque&ccedil;o da figura circunspecta e respeitosa do tio Grissi sentado no escrit&oacute;rio da velha f&aacute;brica na Rua Tupis com Av. Oleg&aacute;rio Maciel. Do carinhoso tio Ernesto e sua fam&iacute;lia e do papai sempre dedicado &agrave; fam&iacute;lia.</p><br>
         <p>N&atilde;o vou me alongar, porque n&atilde;o acabaria nunca de falar de todos com saudades.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -284,12 +295,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Maria da Concei&ccedil;&atilde;o Gris</p><br>
+                <p>Maria da Concei&ccedil;&atilde;o Gris</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Germano Gris era muito alegre, gostava de festas, almo&ccedil;os, reuni&otilde;es e da musica Asa Branca.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -305,7 +317,7 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Dalva Grissi</p><br>
+                <p>Dalva Grissi</p><br>
         </div>
     </div>
     <div class="direita">
@@ -319,6 +331,7 @@
             <br><br>
             <p>Meu apelido era lagartixa e assumo com muito prazer. Lembro-me da casinha dos bisav&oacute;s paternos, o av&ocirc; chamava-se Josep e a V&oacute; Dhidha. Moravam no terreiro da nossa casa, assim falavam meus pais que os velhinhos moravam neste local. Lembro-me tamb&eacute;m dos quintos guardados onde fabricavam vinho, no por&atilde;o da nossa casa. Eram quintos velhos. Diziam meus pais que a fabrica&ccedil;&atilde;o era muito simples. Amassavam as uvas com os p&eacute;s e havia grandes planta&ccedil;&otilde;es de ameixas (brunhas), p&ecirc;ssegos, damascos, coisas que hoje nem se v&ecirc; mais.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -334,12 +347,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Zaira Moreira Grissi</p><br>
+                <p>Zaira Moreira Grissi</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Me lembro da minha av&oacute; Josephina quando passava alguns dias com a gente e aproveitava para remendar todas as roupas que estivessem precisando. Fazia-o com perfei&ccedil;&atilde;o e cerzia muito bem. Ela n&atilde;o era muito de falar, s&oacute; quando papai chegava do servi&ccedil;o &eacute; que conversava em italiano. Do tio Grissi me lembro bem, queria ajudar a todos e, a seu modo, tinha muito carinho com a gente. Ele nos incentivava em tudo. Nos preparativos do seu casamento com a tia Suzana, a Nona veio e foi um tal de preparar doces no fog&atilde;o de ferro bonito da casa deles na Rua Guarani. Lembro-me como se fosse hoje, das senhoras reunidas na cozinha fazendo doces de figo gla&ccedil;ado. Era uma del&iacute;cia. Do tio Germano lembro-me muito, com saudades tamb&eacute;m, principalmente da sua alegria e carinho com todos n&oacute;s, a sua paci&ecirc;ncia em contar hist&oacute;rias. Ele era querido por todos e era o padrinho do Jo&atilde;o Francisco. No dia que ele furou os olhos com a tesoura, chorou ajoelhado e abra&ccedil;ado ao Jo&atilde;o no lado da cama dele e dizia Petilinio Mio. As festas em sua casa eram sempre cheias de alegria e tudo era motivo para arrasta- p&eacute;. Ele era o oposto do papai e tio Grissi. Era sempre com muita alegria que aguard&aacute;vamos as festas de l&aacute;. Nossa fam&iacute;lia aqui, tio Germano, tio Grissi e papai sempre gostavam de reunir no Natal e Ano Novo e viv&iacute;amos trocando convites de almo&ccedil;o nas casas um do outro. Era &oacute;timo. Esta mania de fazer mutir&atilde;o para tudo, j&aacute; data de tempos. O casamento da tia Suzana, da Mara, da T&ecirc; e mesmo o meu, todos ajudavam e dividam as tarefas do buffet, que sempre foi farto e bem feito. N&atilde;o se usava jogar nada fora. Tivemos doces e bolos maravilhosos, confeccionados pela prima Laurita da tia Vitalina, que veio para Belo Horizonte. Depois vieram suas irm&atilde;s e eu adorava estar com elas na Av. Barbacena onde moravam. Dos tios que moravam em Barbacena, lembro-me da nossa reuni&atilde;o durante as f&eacute;rias, as &uacute;nicas com papai durante oito dias, que foram inesquec&iacute;veis. Cada dia almo&ccedil;o na casa de um, tio Jos&eacute;, tia L&uacute;cia, tia Lu&iacute;za, tia Laurita, com verdadeiros banquetes regados a vinho caseiro e muita alegria e cordialidade. O primo Rodolpho Canton tamb&eacute;m veio para Belo Horizonte. Trabalhava com a fam&iacute;lia e alegrava as nossas noites com seu acordeon. O primo Jo&atilde;ozinho Grissi tamb&eacute;m morou aqui, um pouco com todos e foi uma conviv&ecirc;ncia &oacute;tima, da qual tenho muitas saudades. </p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -355,7 +369,7 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Rita de C&aacute;ssia Borgo</p><br>
+                <p>Rita de C&aacute;ssia Borgo</p><br>
         </div>
     </div>
     <div class="direita">
@@ -376,13 +390,14 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Ad&eacute;lia Grissi Borgo</p><br>
+                <p>Ad&eacute;lia Grissi Borgo</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Os dados que consegui &agrave;s vezes entram em contradi&ccedil;&atilde;o, pois em um documento de meu pai, o nome do meu av&ocirc; paterno consta como Giovanni, j&aacute; em outro documento consta como Jo&atilde;o. Mesmo assim, continuarei a pesquisar e se conseguir novos dados, imediatamente enviarei a voc&ecirc;.</p><br>
         <p>Desculpe pela demora, mas foi gratificante saber coisas de nossos antepassados.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -398,7 +413,7 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Angela Maria Grissi Machado</p><br>
+                <p>Angela Maria Grissi Machado</p><br>
         </div>
     </div>
     <div class="direita">
@@ -406,6 +421,7 @@
             <p/><br>
             <p>Segundo as vers&otilde;es dos mais antigos, o nome foi tomado de empr&eacute;stimo a outra fam&iacute;lia durante o processo de emigra&ccedil;&atilde;o para o Brasil. (s&eacute;c. XIX). O nome verdadeiro segundo essas vers&otilde;es, seria MORASSI OU MORASI. A origem da fam&iacute;lia tamb&eacute;m causa d&uacute;vida. As duas possibilidades mais faladas pelos antigos s&atilde;o: A Prov&iacute;ncia de PORDENONE, no Friuli A Prov&iacute;ncia de Padova (P&aacute;dua) no Veneto. &Eacute; preciso tamb&eacute;m averiguar se os av&oacute;s n&atilde;o solicitaram a naturalidade brasileira. Os av&oacute;s s&atilde;o Giuseppina Toffolo Grissi e Giovanni Grissi, nomes que aparecem com grafias bem variadas em diversos documentos, inclusive "aportuguesados", o que gera d&uacute;vida da naturalidade. Informo que o nome Angelo Olivio Toffolo est&aacute; incorreto segundo investiga&ccedil;&atilde;o do Consulado Italiano. O nome Olivio (=Pr&eacute;-nome) &eacute; na verdade, um sobrenome, Olivo. Assim, o nome completo do velho tio Toffolo de Ouro Preto &eacute; Angelo Olivo Toffolo.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -421,12 +437,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Norma Canton</p><br>
+                <p>Norma Canton</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Meu av&ocirc; Valentin Canton era da Marinha Mercante e Thereza sua mulher era bailarina de palco. Desembarcaram em Santos em 1887 e foram para S&atilde;o Paulo, mas n&atilde;o quiseram ficar e seguiram para Minas, em Barbacena.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 
@@ -443,12 +460,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Beatriz Canton</p><br>
+                <p>Beatriz Canton</p><br>
         </div>
     </div>
     <div class="direita">
         <p>As informa&ccedil;&otilde;es que tenho das fam&iacute;lias Grissi e Canton: Grissi Luigi, veio da Ilha de Malta, na It&aacute;lia. Canton Valentino de Bordon, na Fran&ccedil;a.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -464,12 +482,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Geraldo Canton</p><br>
+                <p>Geraldo Canton</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Estamos imensamente contentes em saber que est&atilde;o fazendo tal pesquisa em busca das nossas origens e &eacute; com este esp&iacute;rito que mostramos o nosso apoio e colocamos &agrave; disposi&ccedil;&atilde;o de voc&ecirc;s a nossa ajuda.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -485,12 +504,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Josephina Liporatti</p><br>
+                <p>Josephina Liporatti</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Quando chegaram ao Brasil, n&atilde;o sei se foram para o Rio Grande do Sul. Minha m&atilde;e e irm&atilde;os foram criados por outra fam&iacute;lia, mas n&atilde;o lembro quem foi. Diziam que nunca haviam tomado um "tapa" desta fam&iacute;lia. Moraram na Col&ocirc;nia Rodrigo Silva que fica em Ponte Nova. (Campolide), &eacute; uma esta&ccedil;&atilde;o. E depois foram para Barbacena. Foi sepultada no Cemit&eacute;rio da Boa Morte. Teve 10 filhos.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -506,12 +526,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Rodolpho Canton</p><br>
+                <p>Rodolpho Canton</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Meus av&oacute;s foram acolhidos pela familia Roman, da Col&ocirc;nia Rodrigo Silva.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -527,12 +548,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Thereza Canton</p><br>
+                <p>Thereza Canton</p><br>
         </div>
     </div>
     <div class="direita">
         <p>O sobrenome dos Canton &eacute; Cantoni. Acho que s&atilde;o de P&aacute;dua ou Pordenome. Chegaram no Rio de Janeiro e foram acolhidos pela fam&iacute;lia Martins. Valentino meu av&ocirc;, morreu na casa que ficava entre S&aacute; Fortes e Ponte do Cosme e Thereza Salutti Martin faleceu na casa do meu pai, com 92 anos. Meu pai foi um grande marceneiro e ensinou o of&iacute;cio aos filhos, e eu tenho como lembran&ccedil;a uma cama de casal bem trabalhada e uma farinheira feitas por ele. Minha m&atilde;e assinava o sobrenome Gris por quest&atilde;o de registro de nascimento.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -548,12 +570,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Laurita Canton</p><br>
+                <p>Laurita Canton</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Meu av&ocirc; Valentin Canton era funcion&aacute;rio da Marinha Mercante e morou na Alemanha durante 1 ano e 7 meses para juntar dinheiro e vir para o Brasil. Minha av&oacute; Tereza era bailarina em Verona ou Veneza.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -569,12 +592,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Maria Ad&eacute;sia Canton de Castro</p><br>
+                <p>Maria Ad&eacute;sia Canton de Castro</p><br>
         </div>
     </div>
     <div class="direita">
         <p>N&atilde;o mandei antes o question&aacute;rio, porque estava viajando, por isso pe&ccedil;o desculpas.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -590,13 +614,14 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Jaqueline Grissi Cardoso</p><br>
+                <p>Jaqueline Grissi Cardoso</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Lembro do vov&ocirc; Ernesto fabricando vinho, na casa da rua Araruama e, ele tinha muita raiva quando colocavam "l&iacute;ngua pra fora". Uma vez, n&atilde;o sei qual das netas colocou e ele deu um tapa na boca. Lembro do Gordini e do fusquinha azul. De lembran&ccedil;a ruim, &eacute; apenas a morte do vov&ocirc;, e principalmente a mudan&ccedil;a da casa da rua Araruama.</p><br>
         <p>&Eacute; uma fam&iacute;lia que eu amo muito, e sei que posso contar e confiar para qualquer coisa, &eacute; tudo gente boa. &Eacute; sempre &oacute;timo quando nos reunimos e voc&ecirc;s tiveram &oacute;tima id&eacute;ia com estes levantamentos.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -612,12 +637,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Alexandre Grissi Mabillot</p><br>
+                <p>Alexandre Grissi Mabillot</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Todos os s&aacute;bados a fam&iacute;lia reunia para almo&ccedil;ar na casa da rua Araruama, e todas as tardes eu ia ao Merci com o vov&ocirc; Ernesto, fazer compras. Era muito gostoso. Lembro de ir com o vov&ocirc; &agrave;s dez horas da manh&atilde; tomar caf&eacute; no bar, ou melhor, ele tomava cerveja e comia past&eacute;is e eu tomava refrigerante com past&eacute;is. No Natal, ele e a vov&oacute; Z&uacute; levavam os netos para comprar macac&otilde;es na f&aacute;brica Saba, e eu adorava aqueles do tipo de corredor de f&oacute;rmula I.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -633,12 +659,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Adriana Grissi Mabillot</p><br>
+                <p>Adriana Grissi Mabillot</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Minha m&atilde;e conta que brincava muito na f&aacute;brica de balas Suissa, e adorava ver os funcion&aacute;rios mexerem o tacho. Uma bebida inesquec&iacute;vel era o vinho que o vov&ocirc; Ernesto preparava. Aos s&aacute;bados sempre havia o almo&ccedil;o na casa da vov&oacute; Zuz&uacute;, e n&atilde;o esque&ccedil;o do ravi&oacute;li e capeleti.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -654,12 +681,13 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Vera Lucia Canton e Gilberto Pedrosa Guimar&atilde;es</p><br>
+                <p>Vera Lucia Canton e Gilberto Pedrosa Guimar&atilde;es</p><br>
         </div>
     </div>
     <div class="direita">
         <p>Estamos aguardando este Encontro com muita expectativa.</p><br>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -675,7 +703,7 @@
                     echo '<img src="images/nophoto.jpg" alt="Sem foto"/>';
                 }
             ?>
-            <p>Comiss&atilde;o Organizadora</p><br>
+                <p>Comiss&atilde;o Organizadora</p><br>
         </div>
     </div>
     <div class="direita">
@@ -689,6 +717,7 @@
                     <br>Belo Horizonte, 20/09/1932
                 </p>
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 

@@ -1,4 +1,4 @@
-<?php require("includes/helpers.php"); ?>
+<?php require "includes/helpers.php"; ?>
 
 <?php render("header", ["title" => "Contato"]); ?>
 
@@ -79,6 +79,7 @@
     <div id="email_direita">
         <img src="images/contato/arroba.png" alt="email" height="150px" width="150px" />
     </div>
+    <div class="clearFloat"></div>
 </div>
 
 <?php render("footer"); ?>

@@ -11,19 +11,12 @@
         </a>
         <div class="legenda">Clique para ampliar</div>
     </div>
-    <!-- preferiram deixar só um documento no 1o quador mesmo.
-    <div class="esquerda">
-        <a href="images/historia/documento2.jpg" TARGET="_blank">
-            <img src="images/historia/documento2.jpg" alt="Documento 2"/>
-        </a>
-        <div class="legenda">Clique para ampliar</div>
-    </div>
-    -->
     <blockquote class="direita">
         <b>GRIZZO</b><br><br> Luigi - Chefe - 58 anos<br> Luigia - Esposa - 44 anos<br> Maria - Filha - 1 ano<br> Rosa - Filha - 2 anos<br> Antonio Augusto - Filho - 20 anos<br> Giovanni - Enteado - 10 anos<br><br>
 
         <p>Eles aportaram no Brasil, especificamente no Rio de Janeiro, conforme o Livro de Registro de Entrada dos Imigrantes (nº 32, fls. 111 verso) – Arquivo Nacional do Rio de Janeiro, procedentes do Porto de Genova, vindos no Vapor PACÍFICA em 14 de janeiro de 1889 e, provavelmente ficaram uns 7 dias na Hospedaria Ilha das Flores no RJ, à espera de um local para se fixarem.</p><br>
     </blockquote>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -37,6 +30,7 @@
     <blockquote class="direita">
         <p>Chegaram à Colônia Rodrigo Silva em Barbacena nesta data, conforme o Livro de Registro de Imigrantes (SG 807 – fls. 31 e 32 ) - Arquivo Público Mineiro e, já registrados com a variação no sobrenome de GRIZZO para GRICE e ocuparam o Lote nº 152.</p><br>
     </blockquote>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -59,6 +53,7 @@
         <p>Alí se estabeleceram para desenvolverem uma agricultura de subsistência e receberam adiantamentos para alimentação, utensílios, sementes para o plantio,medicamentos, uma vaca de leite e auxilio para a construção de uma casa.</p><br>
         <p> As variações nos sobrenomes encontrados (GRIZZO – GRICE – GRIS e GRISSI), podem ser erros dos escreventes nos passaportes, ou sotaque dos imigrantes, ou mesmo por causa do rápido processamento diário de centenas de imigrantes chegados no Brasil. Alguns familiares, devido á naturalização, creio eu, se registraram como GRIS e outros GRISSI, mas é uma única e bela família. </p><br>
     </blockquote>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -72,6 +67,7 @@
     <blockquote class="direita">
         <p>Depois de muito pesquisar através de cartas, conseguimos através da Diocesi di Concórdia, em Pordenone, o Certificato do Battesimo do filho do 1º casamento do nosso bisavô: GRIZZO AUGUSTO ANTONIO, FIGLIO DI GRIZZO LUIGI DI ANGELO E DI PUPPI ELISABETTA, nato il ventidue (22) agosto 1868.</p><br>
     </blockquote>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -85,6 +81,7 @@
     <blockquote class="direita">
         <p>Do 2º casamento do nosso bisavô, nasceram: GRIZZO GIOVANNI (nosso avô), figlio di GRIZZO LUIGI DI Angelo e di CASETTA LUIGIA, EM 15 SETTEMBRE 1878.</p><br>
     </blockquote>
+    <div class="clearFloat"></div>
 </div>
 
 <div class="box">
@@ -94,6 +91,7 @@
         <p>E outros filhos : GIACOMO LUIGI, nascido em 07/02/1877, tendo falecido no mesmo dia.</p><br>
         <p>OLIVO LUIGI, nascido em 20/07/1882.</p><br>
     </blockquote>
+    <div class="clearFloat"></div>
 </div>
 
 
