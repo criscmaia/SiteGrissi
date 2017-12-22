@@ -57,4 +57,4 @@
             </script>
 
             <!-- Google Ad Finish -->
-            <h1><?= htmlspecialchars($title) ?></h1>
+<!--            <h1><?= htmlspecialchars($title) ?></h1>-->
