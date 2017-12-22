@@ -49,13 +49,13 @@ coolfind.create_find_div = function () {
     var menu_style = "background-color: #e5e5e5; display: none;";
     var input_style = "display: inline; max-width: 55%;"; // Version 6.0b - changed width: 55% to max-width: 55%
     if (coolfind.lock_button) menu_style += "float: left;";
-//    coolfind.addCss(".cool_find_btn {" + button_style + "}"); // Comment out this line if you are using your own css for the buttons
-//    coolfind.addCss(".cool_find_menu {" + menu_style + "}"); // Comment out this line if you are using your own css for the find menu
-//    coolfind.addCss(".cool_find_input {" + input_style + "}"); // Comment out this line if you are using your own css for the input search box
+    coolfind.addCss(".cool_find_btn {" + button_style + "}"); // Comment out this line if you are using your own css for the buttons
+    coolfind.addCss(".cool_find_menu {" + menu_style + "}"); // Comment out this line if you are using your own css for the find menu
+    coolfind.addCss(".cool_find_input {" + input_style + "}"); // Comment out this line if you are using your own css for the input search box
 
     // If browser does not support svg
     if (typeof SVGRect == "undefined")
-        coolfind.find_button_html = "Find";
+        coolfind.find_button_html = "Pesquisar";
     else
         coolfind.find_button_html = '<svg width="1.15em" height="1.15em" viewbox="0 0 30 30">' +
         '<circle cx="18" cy="12" r="8" stroke="black" stroke-width="2" fill="#fff" fill-opacity="0.4" />' +
@@ -68,7 +68,7 @@ coolfind.create_find_div = function () {
     find_div.style.cssText = find_div_style;
 
     find_html += "<button class='cool_find_btn' id='cool_find_btn'" +
-        " title='Find on this page' onclick='coolfind.find_menu(this)'>" +
+        " title='Pesquisar nome...' onclick='coolfind.find_menu(this)'>" +
         coolfind.find_button_html + "</button> ";
 
     if (coolfind.lock_button) {
@@ -81,15 +81,15 @@ coolfind.create_find_div = function () {
     find_html += "<span class='cool_find_menu' id='cool_find_menu'>" +
         '<form onsubmit="return false;" style="display: inline">' +
         '<input type="search" class="cool_find_input" id="cool_find_text"' +
-        ' onchange="coolfind.resettext();" placeholder="Enter text to find">' +
+        ' onchange="coolfind.resettext();" placeholder="Pesquisar nome">' +
         '<span id="cool_find_msg"> </span></form>';
 
     find_html += "<button class='cool_find_btn'" +
         //" style='"+button_style+"'"+
-        " title='Find Previous' onclick='coolfind.findprev();'>&#9650;</button>" +
+        " title='Anterior' onclick='coolfind.findprev();'>&#9650;</button>" +
         "<button class='cool_find_btn' id='cool_find_next'" + // Version 6.0b - Added id='cool_find_next' for accessibility
         //" style='"+button_style+"'"+
-        " title='Find Next' onclick='coolfind.findit();'>&#9660;</button> ";
+        " title='Próximo' onclick='coolfind.findit();'>&#9660;</button> ";
 
     find_html += "</span>";
     find_div.innerHTML = find_html;
@@ -128,7 +128,7 @@ coolfind.find_menu = function (that) {
     } else {
         that.nextElementSibling.style.display = 'none';
         that.innerHTML = coolfind.find_button_html;
-        that.title = "Find on this page";
+        that.title = "Procurar nessa página";
         coolfind.unhighlight(); // Remove highlights of any previous finds - ver 5.1 - 10/17/2014
         // Make document no longer look for enter key and esc key
         if (document.removeEventListener) // Chrome, Safari, FF, IE 9+
