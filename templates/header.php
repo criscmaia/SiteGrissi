@@ -15,7 +15,6 @@
     <link href='https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css' rel='stylesheet' type='text/css'>
 
 
-    <link rel="alternate" href="http://www.familiagrissi.com.br/" hreflang="pt" />
     <!-- Google Analytics -->
     <script>
         window.ga = window.ga || function() {
