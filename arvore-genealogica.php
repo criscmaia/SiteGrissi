@@ -1,9 +1,8 @@
 <?php require("includes/helpers.php"); ?>
 
 <?php render("header", ["title" => "Árvore Genealógica"]); ?>
-
 <!-- botão de pesquisar! -->
-<script type="text/javascript" language="JavaScript" src="/js/find6.js"></script>
+<script type="text/javascript" id="cool_find_script" src="/js/find6.js"></script>
 
 <?php
 // diretório das imagens
@@ -23,7 +22,7 @@ $nome_search = array("./images/arvore/",".jpg");
 $nome=str_ireplace($nome_search,"",$nome);
 
 // pega todos os dados do arquivo da árvore
-$data=file_get_contents('http://familiagrissi.com.br/arvore.html');
+$data=file_get_contents('./arvore.html');
 
 //conta quantos valores no array
 $i = count($imagens)-1;
