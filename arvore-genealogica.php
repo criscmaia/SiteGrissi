@@ -38,12 +38,7 @@ do
 	//cria uma variável com o que vai substituir
 	$replace ='
 		<img src="./images/arvore/camera.png" alt="camera" class="icone">
-		<a href="#foto" class="tooltip">
-		  '.$nome[$i].'
-		  <span>
-		  <img src="'.("./images/arvore/".rawurlencode($nome[$i]).".jpg").'" alt="'.$nome[$i].'"/>
-		  </span>
-		</a>';
+		<a href="#foto" class="tooltip">'.$nome[$i].'<span class="foto"><img src="'.("./images/arvore/".rawurlencode($nome[$i]).".jpg").'" alt="'.$nome[$i].'"/></span></a>';
 
 	//substitui procurando pelo array[$i]
 	$data = preg_replace ($imagens[$i], $replace, $data);

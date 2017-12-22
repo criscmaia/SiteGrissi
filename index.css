@@ -1,0 +1,520 @@
+body {
+    background-color: #f2f2f2;
+    font-family: verdana, Helvetica, sans-serif;
+    color: #444;
+}
+
+.clearFloat {
+    clear: both;
+}
+
+.container {
+    max-width: 1098px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    /*    background-color: #f2f2f2;*/
+}
+
+header h1 {
+    font-family: Tallys, Georgia, serif;
+    font-size: 2.3em;
+    margin: 15px 0;
+    line-height: 1.4em;
+    color: #CE2B37;
+    letter-spacing: 4px;
+    text-align: center;
+    /*    text-shadow: 0 0 3.1em #e00, 0 0 0.8em #e00;*/
+}
+
+header h2 {
+    font-family: Tallys, Georgia, serif;
+    font-size: 1.4em;
+    letter-spacing: 4px;
+    color: #009246;
+    text-align: center;
+}
+
+nav {
+    font-family: verdana, Helvetica, sans-serif;
+    text-align: center;
+    border-bottom-width: 3px;
+    border-bottom-color: #009246;
+    border-bottom-style: groove;
+}
+
+nav a {
+    line-height: 1.6em;
+    text-decoration: none;
+    color: #444;
+    padding: 0 2px;
+}
+
+nav a:hover,
+nav a#current {
+    color: #DD0000;
+    border-top: none;
+    font-size: 1.2em;
+}
+
+nav a#current {
+    color: #008000;
+}
+
+main {}
+
+main h1 {
+    font-weight: 400;
+    text-align: center;
+}
+
+footer {
+    padding-top: 30px;
+}
+
+footer a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+/* index.php */
+
+figure {
+    text-align: center;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+.homeaudio {
+    margin: 0 auto;
+    width: 300px;
+}
+
+
+/* arvore.php */
+
+p.c8 {
+    font-weight: bold;
+}
+
+span.c13 {
+    font-size: 12.0pt;
+    color: black;
+}
+
+span.c46 {
+    font-size: 16.0pt;
+    color: black;
+}
+
+span.c12 {
+    font-size: 18.0pt;
+    color: black;
+}
+
+span.c6 {
+    font-size: 12.0pt;
+    color: red;
+}
+
+span.c23 {
+    font-size: 16.0pt;
+    color: red;
+}
+
+span.c10 {
+    font-size: 18.0pt;
+    color: red;
+}
+
+span.c1 {
+    font-size: 20.0pt;
+    color: red;
+}
+
+span.c15 {
+    font-size: 12.0pt;
+    color: green;
+}
+
+span.c22 {
+    font-size: 16.0pt;
+    color: green;
+}
+
+span.c7 {
+    font-size: 12.0pt;
+    color: blue;
+}
+
+span.c9 {
+    font-size: 18.0pt;
+    color: blue;
+}
+
+span.c37 {
+    font-size: 12.0pt;
+    color: teal;
+}
+
+span.c18 {
+    font-size: 12.0pt;
+    color: olive;
+}
+
+span.c17 {
+    font-size: 12.0pt;
+    color: fuchsia;
+}
+
+span.c16 {
+    font-size: 12.0pt;
+    color: purple;
+}
+
+span.c24 {
+    font-size: 16.0pt;
+}
+
+span.c11 {
+    font-size: 18.0pt;
+}
+
+span.c2 {
+    font-size: 20.0pt;
+}
+
+span.c26 {
+    color: purple;
+}
+
+span.c49 {
+    color: olive;
+}
+
+span.c28 {
+    color: teal;
+}
+
+span.c5 {
+    color: red;
+}
+
+span.PN {
+    font-size: 12.0pt;
+    color: orange;
+}
+
+
+/* historia.php */
+
+.box {
+    width: 80%;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    background: #eee;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: inset rgba(0, 0, 0, 0.3) 0 1px 1px, inset rgba(0, 0, 0, 0.2) 0 1px 4px, rgba(255, 255, 255, 0.6) 0 1px;
+}
+
+.box h2 {
+    color: #666666;
+}
+
+.esquerda {
+    float: left;
+    width: 145px;
+    padding-right: 15px;
+}
+
+.esquerda img {
+    width: 100%;
+}
+
+.esquerda P {
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    font-size: 80%;
+    font-weight: bold;
+}
+
+.direita {
+    position: relative;
+    padding: 15px;
+    margin: 0 0 0.5em;
+    overflow: hidden;
+    text-align: justify;
+    line-height: 20px;
+    text-indent: 3em;
+}
+
+.chat-bubble {
+    border: 2px solid #666666;
+    line-height: 1.3em;
+    padding: 10px;
+    position: relative;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -moz-box-shadow: inset rgba(0, 0, 0, 0.3) 0 1px 1px, inset rgba(0, 0, 0, 0.2) 0 1px 4px, rgba(255, 255, 255, 0.6) 0 1px;
+    -webkit-box-shadow: inset rgba(0, 0, 0, 0.3) 0 1px 1px, inset rgba(0, 0, 0, 0.2) 0 1px 4px, rgba(255, 255, 255, 0.6) 0 1px;
+    -box-shadow: inset rgba(0, 0, 0, 0.3) 0 1px 1px, inset rgba(0, 0, 0, 0.2) 0 1px 4px, rgba(255, 255, 255, 0.6) 0 1px;
+}
+
+.chat-bubble-arrow-border {
+    border-color: transparent transparent transparent #666666;
+    border-style: solid;
+    border-width: 12px;
+    height: 0;
+    width: 0;
+    position: absolute;
+    top: 20px;
+    right: -25px;
+}
+
+.chat-bubble-arrow {
+    border-color: transparent transparent transparent #EDEDED;
+    border-style: solid;
+    border-width: 12px;
+    height: 0;
+    width: 0;
+    position: absolute;
+    top: 20px;
+    right: -22px;
+}
+
+.box_fotos {
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 680px;
+    padding: 20px;
+    min-height: 160px;
+    border: 1px dashed #a00;
+}
+
+.box_fotos p {
+    text-indent: 3em;
+    line-height: 20px;
+}
+
+.box_fotos a:link a:visited a:hover a:active {
+    text-decoration: underline;
+}
+
+.box_contato {
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 680px;
+    padding: 20px;
+    min-height: 160px;
+    border: 1px dashed #a00;
+}
+
+#email {
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 580px;
+    height: 200px;
+    padding: 20px;
+    min-height: 160px;
+    border: 1px dashed #a00;
+}
+
+#email_esquerda {
+    float: left;
+    width: 400px;
+    padding-right: 15px;
+}
+
+#email_direita {
+    clear: right;
+    position: relative;
+    overflow: hidden;
+    float: right;
+}
+
+#rodape {
+    margin-left: 111px;
+    margin-right: 111px;
+    font-weight: bold;
+    height: 25px;
+}
+
+#rodape a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.texto {
+    text-align: justify;
+    line-height: 20px;
+    min-height: 350px;
+}
+
+.frame {
+    padding: 5px;
+    border: 1px solid #aaa;
+    margin: 5px 0 15px 0px;
+    text-align: justify;
+}
+
+.quadrado {
+    margin-left: auto;
+    margin-right: auto;
+    width: 680px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    border: 1px solid #a00;
+    line-height: 25px;
+}
+
+.assinatura {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.assinatura IMG {
+    float: left;
+    width: 80px;
+    height: 93px;
+    margin: 0 15px 0 0;
+    border: 1px solid #E6E6E6;
+    outline-style: solid;
+    outline-width: thin;
+    padding: 5px;
+}
+
+.legenda {
+    color: #808080;
+    font-family: verdana, Helvetica, sans-serif;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+acronym {
+    border: none;
+}
+
+#footnotediv {
+    position: absolute;
+    width: 150px;
+    overflow: visible;
+}
+
+#footnotediv div {
+    background-color: white;
+    border: 2px solid #666666;
+    line-height: 1.3em;
+    padding: 5px;
+    position: relative;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -moz-box-shadow: inset rgba(0, 0, 0, 0.3) 0 1px 1px, inset rgba(0, 0, 0, 0.2) 0 1px 4px, rgba (255, 255, 255, 0.6) 0 1px;
+    -webkit-box-shadow: inset rgba(0, 0, 0, 0.3) 0 1px 1px, inset rgba(0, 0, 0, 0.2) 0 1px 4px, rgba(255, 255, 255, 0.6) 0 1px;
+    -box-shadow: inset rgba(0, 0, 0, 0.3) 0 1px 1px, inset rgba(0, 0, 0, 0.2) 0 1px 4px, rgba(255, 255, 255, 0.6) 0 1px;
+}
+
+.tooltip {
+    position: relative;
+    background: #eaeaea;
+    display: inline-block;
+    text-decoration: none;
+    color: #222;
+    outline: none;
+}
+
+.tooltip img {
+    width: 100%;
+}
+
+.tooltip .foto {
+    visibility: hidden;
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    z-index: 999;
+    width: 150px;
+    margin-left: -127px;
+    padding: 5px;
+    background-color: #E6E6E6;
+    border: 2px solid #666666;
+    line-height: 1.3em;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -moz-box-shadow: inset rgba(0, 0, 0, 0.3) 0 1px 1px, inset rgba(0, 0, 0, 0.2) 0 1px 4px, rgba(255, 255, 255, 0.6) 0 1px;
+    -webkit-box-shadow: inset rgba(0, 0, 0, 0.3) 0 1px 1px, inset rgba(0, 0, 0, 0.2) 0 1px 4px, rgba(255, 255, 255, 0.6) 0 1px;
+    -box-shadow: inset rgba(0, 0, 0, 0.3) 0 1px 1px, inset rgba(0, 0, 0, 0.2) 0 1px 4px, rgba(255, 255, 255, 0.6) 0 1px;
+}
+
+.tooltip .foto:before {
+    content: "";
+    position: absolute;
+    border-color: #666666 transparent transparent transparent;
+    border-style: solid;
+    border-width: 12px;
+    z-index: 1000;
+    bottom: -25px;
+    left: 50%;
+}
+
+.tooltip .foto:after {
+    content: "";
+    position: absolute;
+    border-color: #EDEDED transparent transparent transparent;
+    border-style: solid;
+    border-width: 12px;
+    z-index: 1000;
+    bottom: -22px;
+    left: 50%;
+}
+
+.tooltip:hover {
+    border: 0;
+}
+
+.tooltip:hover .foto {
+    visibility: visible;
+}
+
+.icone {
+    width: 15px;
+    height: auto;
+}
+
+.fb-like {
+    display: block !important;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+}
