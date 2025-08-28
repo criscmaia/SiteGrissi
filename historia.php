@@ -1,7 +1,34 @@
 <?php require("includes/helpers.php"); ?>
 
 <?php render("header", ["title" => "História"]); ?>
-
+<div class="box">
+        <h2>Atualização: Outubro 2023</h2><br>
+    <p>A certidão de batismo de nosso bisavô GIOVANNI anexada no processo de reconhecimento da cidadania italiana na Itália, assim também como as certidões de casamento e óbito, registradas nos cartórios de Barbacena/MG, foram retificadas, devido a nomes e dados equivocados e divergências nas informações, conforme oficio recebido do Pároco de Pordenone.</p><br>
+    <p>Confiamos nas informações recebidas da Itália, referente à certidão de nascimento do nosso bisavô GIOVANNI, a qual infelizmente não era do nosso bisavô. Isto motivou suspensão no processo do Consulado Italiano em Belo Horizonte.</p><br>
+    <p>Depois de muitas pesquisas, conseguimos encontrar a certidão original e descobrimos que:</p><br>
+    <p>Somos descendentes da trisavó LUIGIA MORAS, cidadã italiana, nascida na Província
+de Pordenone/Itália, que casou em 1ª núpcias com DAVIDE MORAS, na cidade de
+Porcia, Província de Pordenone, aos 30/12/1875.</p><br>
+    <p>Da união do casal nasceu seu filho GIOVANNI ANTONIO MORAS, em Pordenone, aos
+21 de agosto de 1878.</p><br>
+    <p>O cônjuge de LUIGIA MORAS, senhor DAVIDE MORAS faleceu poucos dias antes do
+nascimento do seu filho GIOVANNI ANTONIO MORAS, em 20/07/1878.</p><br>
+    <p>Passados mais ou menos sete anos do nascimento do nosso bisavô GIOVANNI
+ANTONIO MORAS, nossa trisavó LUIGIA MORAS contraiu novas núpcias com LUIGI
+GRIZZO em 3/08/1885.</p><br>
+    <p>Pouco tempo depois, em 1889, o casal resolveu imigrar com toda a família para o
+Brasil, desembarcando no Porto do Rio de Janeiro em 1889, e se estabeleceram na
+Colônia Rodrigo Silva em Barbacena. Nessa época nosso bisavô GIOVANNI tinha 11
+anos e veio como enteado conforme registro do Navio Pacifica, e juntamente com os
+irmãos: Antônio, Rosa e Maria e a avó Fiorina.</p><br>
+    <p>Nosso bisavô GIOVANNI, sempre reconheceu o padrasto LUIGI GRIZZO como pai,
+tanto que no registro de casamento do mesmo em Barbacena, com Giusephina
+Toffolo, consta o sobrenome GRIZZO.</p><br>
+    <p>E descobrimos, para surpresa da família toda, que Giovanni Grizzo, é sim GIOVANNI
+ANTONIO MORAS , nascido em 21/08/1878 em Pordenone, conforme pesquisas junto
+às repartições italianas e que foram comprovadas e apostiladas na Itália e traduzidas
+por Tradutor Público juramentado, no Brasil</p><br>
+</div>
 <div class="box">
     <h2>14 de janeiro de 1889</h2><br>
     <p>Com muito orgulho e carinho, apresentamos a história da NOSSA FAMÍLIA:</p><br>
